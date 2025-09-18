@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Custom herbal theme colors
+        herb: {
+          green: "hsl(var(--herb-green))",
+          earth: "hsl(var(--earth-brown))",
+          leaf: "hsl(var(--leaf-green))",
+          sage: "hsl(var(--botanical-sage))",
+          cream: "hsl(var(--natural-cream))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
